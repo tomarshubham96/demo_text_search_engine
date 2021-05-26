@@ -1,0 +1,20 @@
+Laser
+
+ 
+
+       The name ‘LASER’ is an acronym for Light Amplification by Stimulated Emission of Radiation.  A Laser is an electric apparatus for producing unified light waves that can be exactly controlled, precisely focused, and when desired, made extremely powerful. It can be aimed precisely enough to destroy a dangerous skin tumor without affecting other healthy skin tissue.
+
+            ‘Laser’ light has certain remarkable properties, which make it chromatic, for example, a red laser beam has only red light.  Laser is very coherent and can be transmitted over great distances, without the beam spreading.  It also has the advantage that a lot of power is concentrated in a very small area.  On the other hand, sunlight, electric light and the light from a candle is incoherent.  It is a jumble of different wavelengths and brightness’s, in what seems to be a steady light emitted in every direction.  To produce a coherent beam, the original light has to be coherent, and that’s what a laser is for.
+
+            Initially, the lasers used ruby crystals and were not very powerful, fairly expensive and unwieldy the present-day lasers come in all sizes ranging from the micro-lasers to the huge lasers used for fusion research.
+
+Applications:
+
+            The laser beams, which are a coherent beam of light and intense enough to vaporize the hardest material ever known, are being used to drill holes in diamond, to weld detached retina of eye and destroy malignant brain tumors located deep inside the brain or in the spinal cord, and to transmit information.  Some of the major uses of laser beams are:
+
+In Consumer Electronics: – In the consumer electronics industry. Compact Discs (CDs) have revolutionized the audio industry with their durability and the fidelity of reproduction. Lasers are an essential part of the recording and reading of Compact Discs. The recording process is basically similar to that of an LP, except that instead of a needle, laser lights are used to read the ‘grooves’. Since the waves are extremely small, the amount of information stored on a CD can be huge, leading to exceptional fidelity. 
+In Computer Technology:-Computer memories are another area where lasers have had a tremendous impact on ROMs (Read only memory). These optical discs allow a far more dense storage of data, which are extremely durable and have a further advantage in having much faster access times for retrieval of data.
+In Defence: – Lasers are being used to generate the immense temperature required to study thermonuclear fusion, and like other technologies, lasers are being conceived as offensive and defensive weapons. In fact, lasers formed one of the main technological mainstays of the strategic Defence initiative or star Wars.
+In Fusion Process: – Still in the research stage, the nuclear energy fusion process requires a starting temperature of millions of degrees, obtained by concentrated laser beams.
+In Aviation: – Lasers are finding use in ensuring safe air travel. Based on the super market barcode technology, the new hand-held laser scanner security system keeps track of passengers and their luggage as they progress through airport check in systems
+Various IITS, particularly those at Kanpur and Chennai, are working in the area of laser development as are the NPL and the Indian Institute of Science. National Laser Programme is a joint strategy of the Departments of Science and Technology, Atomic Energy and Electronics. The Crystal Growth Centre of Anna University, Chennai, has been selected to produce laser-producing crystals.

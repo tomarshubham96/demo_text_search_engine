@@ -1,0 +1,37 @@
+Super-Conductivity
+
+ 
+
+The flow of electrons is called current and the materials in which the electrons flow is called a conductor. Copper, mercury, aluminum, etc are good conductor whereas glass, rubber and wood are bad conductors, or insulators. Materials that don’t conduct electricity better than copper are called semi-conductors.
+
+In a super conductor, elections pair up to flow without resistance at chillingly low temperatures. The discovery is unusual because organic molecules usually act as electrical insulators; but injecting them with electrons effectively changes the molecules into ‘metallic’ super conductors. The first examples of the new super conductors are made from anthracite, penetrate and pentacene. Applying a magnetic field restores their restores their insulating properties, a test of a true super-conductor. The research will shed light on the origin of super-conductivity and more generally on the properties of correlated electron systems.
+
+In a world plagued by energy crisis, the concept of super-conductivity has come about as a boon romancing. We know that conductors are medium that allow electricity to flow through them. However, due to the resistance offered by the medium the current carrying capacity of the medium is almost reduced to half its capability. It is known that temperature is a factor that contributes to this resistance, hence, if the temperature of the carrier could be lowered to absolute zero(o K or 273 C), these carriers could be made super conductive, because at this temperature they lose all resistance.
+
+It was in the year 1911, that a Dutch physicist Heike Kimberling Ones, discovered super conductivity. While studying that variation of electrical resistance of mercury with temperature, he found that near absolute zero temperature, the resistance dropped down to a conductivity involved more than simply very high or infinite electrical conductivity. The next step towards unfolding the mystery of super conductivity took place in 1933, when W. Meisner and R. Ochsenfeld found that a super conductor placed in a magnetic field expelled the field from the interior of the conductor. Later, it was found that super conductivity needed a temperature of 4.2 K, which was the point at which helium gas liquefies. It was in 1943, that Karl Alex Muller of Zurich Laboratory decided to work on metallic oxides called ceramics. Paul C.W. Chu of Houston University found that super-conducting materials got damaged when their temperature was raised to 52 K. Hence, he replaced barium with strontium which has a smaller atomic structure and he could raise the temperature to 54 K. Later, with the use of rare earth element, temperature was raised to 98 K.
+
+Today thallium, barium, calcium, copper oxide, bismuth, strontium, yttrium are considered as the most attractive materials for super conductivity.
+
+Uses and Applications
+
+ 
+
+Super-conductors have many advantages over normal conductors. These are:-
+
+In normal conductors, the energy lost because of resistance is given off as heat which makes the packing of electrical circuits risky. Thus, a super-conductor with no resistance and consequently no heat building is fund suitable to pack the circuits tightly.
+They save electricity as energy loss due to resistance offered by conductors is reduced.
+They have ability to generate very powerful fields from relatively small super conducting electromagnet.
+They can create Josephson junction which is capable of detecting minute magnetic fields and also have the advantages of switching 100 times faster.
+These magnetic field detectors are called super conducting quantum interference devices or SQUIDS. Due to these inherent advantages, super conductor has been put to a variety of uses.
+
+Super-conductor electromagnets are used to generate extremely powerful magnetic fields which are used in atomic colliders.
+Mass derivers are used to accelerate the object to very high velocities.
+Super conductors are also used in magnetic cardiograms, nuclear magnetic resonance magnetic resonance imaging etc. these procedures help the medical experts to take detailed images of organs without having to cut open the skin.
+Magnetic levitated trains float 4 inches above their tracks and hence no friction is involved which could have limited their speed. These soc called “Bullet Trains” move at very high speed, up to 500 mph.
+Research in India
+
+ 
+
+Acknowledging the importance of super conductivity, a programmed Management Group was set up by the government in 1987. It was soon replaced by the National Super conductivity science and technology board in 1991. Research work was entrusted to DAECSIR, and IITs. The areas of research work included improvement in critical temperature, workability of yttrium, bismuth, thallium, ONG and MTMG techniques, SQUIDS, HGMS, etc.
+
+The National Physical Laboratory, New Delhi has developed a SQUID at liquid nitrogen temperature of 77 K. they will help in geological prospecting and bio-magnetism. In yet another field super conducting compounds called monophonic compounds with a critical transition temperature of 110 K, 90 K and 80 K have been reached for the compound bismuth, strontium, calcium and copper oxide. In a major development, Bharat Heavy Electricals Limited, Hyderabad has built and tested the country’s first super conducting generator. The generator is cooled by liquid helium and has a capacity but the use of, liquid helium is proving very costly and efforts are on to substitute it with relatively cheaper liquid nitrogen.

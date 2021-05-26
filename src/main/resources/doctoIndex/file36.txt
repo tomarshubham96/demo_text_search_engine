@@ -1,0 +1,113 @@
+ADAPT Framework: On Dealing With Technological Changes
+ADAPT framework
+9 min read
+In tech, people often talk about Moore’s law when they want to stress the pace of innovation. 
+
+The law comes from Gordon Moore, a co-founder of tech giant Intel, who observed that the chips in our computers double their computing power every two years.
+
+This compounded annual growth in computing power is the key driving force of technological change and economic growth. To put this in perspective, if you buy a computer today, it’s likely 32 times faster than a computer you could buy in 2010.
+
+No other industry or technology innovates this fast. This is comparing apples with oranges, but a 2010 gas-powered car is maybe a few percentage points more energy efficient than an average car you can buy today. 
+
+Adapt or die: Understanding technological change
+In my experience, the majority of professionals still underestimate the power of technological change. Just think about the things you can do now, compared to a few years ago. 
+
+While we’re good at noticing how fast our new smartphone is, we are often oblivious to its implications in our careers. Every time I read about some kind of new technology, I immediately think, “How can this tech replace my work?” 
+
+Some people believe Artificial Intelligence will replace many jobs this century. Some say it’s in 10 years, others say it’s in 50, but they all agree: AI will happen. And it’s coming for all of us.
+
+There’s even AI that already writes articles. It probably could’ve written this one. No one is above technology. There may come a point that computers and apps could make our work insignificant.
+
+All of this sounds scary, but it’s not. We’re probably not going to get a Terminator-like future where robots control human beings. It’s more likely that our lives will be better, provided we know how to use technology effectively.
+
+I honestly hope we can collectively work less, and enjoy our time more. We could have more time for creative and cultural pursuits. Of course, this is all utopia right now. But technological advancement is as sure as death and taxes. 
+
+To increase our odds of staying relevant in the future, we must adapt faster to technological changes. I’ve created a framework to improve your adaptability.
+
+The ADAPT framework
+Adapting to changing environments starts with adjusting your mindset, which is the way you see the world. And since your actions are based on your mindset, changing your mindset is a prerequisite to changing your actions.
+
+Carol Dweck, a psychology professor at Stanford, famously made the distinction between having a growth vs a fixed mindset. Here are the definitions.
+
+Fixed mindset: The belief that one’s basic abilities, intelligence, talents, are fixed traits. There’s nothing one can do to change those traits.
+Growth mindset: The belief that one’s abilities can be developed through effort, good teaching, and persistence.
+The ADAPT framework I’ve created only works if you adopt a growth mindset. It’s the understanding that you can adapt. The ADAPT framework shows you how to adapt. It stands for the following. 
+
+Accept that new technologies are changing the way you work and operate in the world.
+Discontinue your old methods, ideas, and tactics. 
+Acquire new skills that help you provide value in the future.
+Progress daily and don’t stop learning.
+Track the environment for new changes.
+In the rest of this article, I’ll explain every step of the ADAPT framework.
+
+Step 1: Accept
+We assume that education is like a journey with a destination. When we graduate and receive our diploma, we’re done. For some people, they are done when they leave high school, others are done when they leave grad school. It doesn’t matter how far the education journey is, the majority think it has an end. 
+
+That’s false. We must accept that we’re never done with learning. As long as we’re active in the economy, we’re in school. Step 1 is to accept that you’re never done with learning because the world isn’t static. 
+
+What you learned a few years ago is no longer relevant. Too often, I see people relying on what they learned a decade ago in school. I have a business degree and one thing business students believed until recently is that a company can’t be a low-cost supplier and differentiator at the same time.
+
+But then, technology made it easier for companies to provide a lot of value at a lower price. So now, that old belief must go out of the window, right? That’s what we assume. In reality, there are millions of former business school students who still look at the world through their old lens. 
+
+Accept that a lot of your knowledge is no longer useful today. Without accepting that the world is different every day, we can never adapt. And today, it’s not a crazy assumption that the world is actually changing daily. New companies and industries are created all the time. What would you rather have? That you’re a bit ahead of the herd, or that you’re following the herd?
+
+Step 2: Discontinue
+Be willing to discard your old beliefs when they’re no longer relevant. Too often, we cling to old ideas that served us in the past. To continue the business example, an executive might have used the old ideas of competitive strategy to make a lot of profit. 
+
+Results in the past do not guarantee results in the future.
+
+To adapt to the present and future, we always need to discontinue certain beliefs, ideas, processes, strategies, tactics, etc. Something old needs to stop and make room for something new. 
+
+I’ve been publishing books and articles since 2015. Since then, I’ve discontinued many tactics. For a while, it was normal practice to syndicate my articles to online publishers like Business Insider, HuffPo, The Muse, and so forth. At some point, the publishers changed their strategy and it no longer served both parties. Hence, I discontinued the strategy. 
+
+Another example is publishing books. While traditional publishing still receives the most acclaim, it’s not necessarily more profitable for authors. I initially planned to go the traditional route, but I discontinued that strategy and opted for self-publishing high-quality books instead. I might change that strategy again in the future.
+
+To adapt, we must discontinue certain methods that others are applying. Just because the majority is doing something, it doesn’t make it right. 
+
+Step 3: Acquire
+Once you discontinue an old strategy, you need to acquire new skills to create a new strategy. You can’t hope to get a different outcome with your existing skills. That’s like expecting a different dish by using the same ingredients.
+
+And yet, most people go on creating new strategies with their existing ideas and skills. How can you expect a different outcome if you use the same input as before? So you need to acquire new skills, information, knowledge, etc. I have a list of good skills for the 21st century.
+
+But to be adaptable, you need to go beyond that. The most important thing is that you look at your industry, goals, and requirements. When I started self-publishing, I acquired new skills like graphic design, copy-editing, interior design for books, etc. Those skills were highly relevant to my goals. 
+
+There’s a misconception about adapting to technology. Most people think you need to learn how to code. That’s not true. You only need a basic understanding of coding so you don’t expect the impossible from technology. 
+
+For example, at my family company, Vartex, we create operating systems for professional washing machines and dryers. I don’t know how to write the code for these operating systems. I only know how coding works. I know that we can’t magically upload the data from a washing machine to the cloud. We need to store the data in a database, make it logical, create a front-end, read out the data, and visually represent it to our clients. 
+
+Coding is a sequential activity. You can’t jump from point A to D without thinking about B and C. If that doesn’t make sense, I would start learning more about how coding works globally. That will benefit any person. Coding is simply logical thinking. It’s solving problems. Good coders solve problems without taking detours. 
+
+Step 3 isn’t only about coding. It’s about being willing to acquire new skills that will provide value today, and potentially in the future. Which skills should you acquire? That’s up to you to decide.
+
+Step 4: Progress
+It’s not enough to only acquire a skill. You also need to make progress with the skills that you have. For example, I’m always working on my writing skills. I learn about copywriting, fiction writing, scriptwriting, and so forth. I want to learn about all the disciplines, not because I want to pursue different careers, but because I’m looking for things to learn from other disciplines. 
+
+If you’re not learning more about the skills that matter to your career, you’re not adaptable. This is often overlooked. Our days are filled with busy work and we don’t give enough importance to learning. 
+
+Sure, it’s great to use the ADAPT framework to acquire new skills, but one must never forget their existing skills. To make sure you’re progressing, get clear on the most important skills in your career. If you’re in sales or marketing, your key skill is likely persuasion. If you’re in a leadership role, your key skills are probably related to understanding human psychology. 
+
+A skill is not only always related to a specific activity. Sure, writing, designing, coding, selling, managing, are all skills. But so is psychology, emotional intelligence, philosophy, listening, and so forth. 
+
+A skill is merely something you’re able to do well—and it could be anything. To keep doing things well, one must make progress.
+
+Step 5: Track
+While you’re making progress, you also need to keep track of changes in the environment. You can’t expect to make a change once a year and think that’s it. One must always be on the lookout for new forces that might change the world.
+
+And these forces usually come out of the blue. While many people predicted a global pandemic for years, in 2020, the COVID-19 pandemic came out of the blue for most of us. What are the implications? There’s no fixed answer. It depends on when you ask that question. 
+
+That’s why we need to track our environment, industry, and the global economy. I do this by keeping an eye on economic data, surveys, and behavior I see from my readers, students, and clients.
+
+Don’t rely too much on the news. Use your own judgment and observe the people around you. How people work, live, and behave. That’s a more important indicator. 
+
+It’s important to read widely and look at different industries. Avoid getting stuck inside your little bubble. Sometimes, your industry is the last to change, sometimes it’s the first. By looking at what other companies and organizations are doing, you can predict what will happen in your business.
+
+For example, the CEO of Booking.com, the largest platform for lodging reservations, recently said they will let a lot of people go, and he doesn’t see them returning anytime soon. Lower volume in global bookings has huge consequences for hotels, conference centers, restaurants, and so forth. 
+
+Repeat the ADAPT framework
+If you’re thinking “that’s a lot of work” you’re absolutely correct. Adapting to changes takes time, energy, and many hours of work. That’s the nature of life. If I would present an easy framework to you that promised quick results, I would be lying. 
+
+The biggest reason so many of us fall behind is that we’re not willing to put in the hours to reinvent ourselves and our businesses. But isn’t that all that life is? We’re constantly adapting to our environment. That’s how it’s always been. 
+
+It’s not a question of what you want from life, it’s a question of what life wants from you. That’s why we need to be prepared to repeat the ADAPT framework as much as necessary. And that’s not a problem. It’s an opportunity to make your life and career better.
+
+Want to improve your life and c

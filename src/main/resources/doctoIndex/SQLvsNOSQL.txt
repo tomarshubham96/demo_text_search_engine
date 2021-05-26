@@ -1,0 +1,54 @@
+
+
+SQL ---
+
+Schema is already defined i.e, a table already has certain fields and those fields are realted to an entity of which the info is being stored, so it's not
+possible to add some extra info to a particular enity alone. it is an advantage when you have an predictable layout of the data
+
+Relations are very imp (many to many, one to many etc) -- very good for cascading operations meaning updating in one place gets reflected everywhere, for 
+applications where there are frequent updates it is a veery good approach.
+
+Scaling -- Vertical Scaling -- adding more processing power(RAM), storage(SDD, HDD) but that can be added up to a limit and at some point scaling can become
+difficult
+
+Performance is low in case of mass read and write queries per second (thousands) due to many complex relations.
+
+Update operation is very efficient in SQl databases due to relations
+
+Availability of the database is compromised to ensure consistency -- during a write op to a db all the read op are queued.
+
+follow ACID propereties
+----------------------------------------------------------
+
+
+NoSQL-- (High Operational Speed and Flexibilty in storing the data)
+
+No Strict Schema for a particular entity (a use case for Blogging Web Sites) Schema is very flexible. Advantage when you may have different layouts of the data.
+
+Very less dependent on relations, every collection(table for SQL) has self sufficient data for proceeding.(which allows efficient and fast querying) 
+(good for an application where there are many reads and not that many writes as all the info is at one place)
+
+
+Scaling -- Horizonatl Scaling -- adding more servers (Database is split up accross servers) -- splitting is easy in nosql as there are very less relations 
+
+Performance is great for mass read and write queries per second as well.
+
+Update operation not so good due to duplicate data to be updated everywhere.
+
+Consistency is compromised to ensure availability.
+
+follow BASE propereties
+
+
+----------------------------------------------------------
+
+
+CAP Theorem-- 
+
+(Optional)Consistency -- state of data is true(consistent) always, regardless of how frequent it is accessed or how many threads are accessing it or time 
+it was wriiten.
+
+(Optional)Availability -- data is available all the times whether there is read or write operation going on.
+
+(Mandatory Feature)Partition Tolerance -- replicating the database over a network(2 copies on the n/w) should be able to resolve any differences in case of 
+n/w failure

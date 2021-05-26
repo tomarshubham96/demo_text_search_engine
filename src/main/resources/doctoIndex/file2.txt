@@ -1,0 +1,5 @@
+What is Apache Lucene?
+What it does?
+How it does that?
+How to use it?
+API's available

@@ -1,0 +1,68 @@
+The Law Of Momentum: How To Become Unstoppable
+the law of momentum
+6 min read
+On May 30, 2020, Space X and NASA launched a rocket into space. It was the first time NASA worked with a private company—an important milestone in the history of space travel.
+
+It takes an unimaginable amount of energy to launch a rocket into space. The Falcon 9 rocket from Space X weighs 1.2 million pounds (549 thousand kilograms). The nine engines use liquid oxygen (LOX) and rocket-grade kerosene (RP-1) as fuel. About the energy consumption, the official Nasa blog writes:1
+“Falcon 9 generates more than 1.7 million pounds of thrust at sea level but produces over 1.8 million pounds of thrust in the vacuum of space.”
+
+One way to look at the launch of a 1.2 million pound rocket is through Newton’s laws of motion.2 Newton’s first law states that every object will remain at rest unless it’s forced to change its state by the action of an external effort. 
+
+If there’s no external force on an object, there will be no movement whatsoever. But if you apply external force to that object, the movement of the object will change because of that force.
+
+The key to everything in life that requires motion is this question: How much force do you need to get an object moving? 
+
+Starting Requires More Energy
+Launching a rocket from the ground is the perfect example of Newton’s laws. On the NASA Glenn Research Center blog, I read the following (emphasis mine):3
+“Just prior to engine ignition, the velocity of the rocket is zero and the rocket is at rest.
+
+There is no net force on the object, and the rocket would remain at rest indefinitely. When the engine is ignited, the thrust of the engine creates an additional force opposed to the weight. As long as the thrust is less than the weight, the combination of the thrust and the re-action force through the fins balance the weight and there is no net external force and the rocket stays on the pad.
+
+When the thrust is equal to the weight, there is no longer any re-action force through the fins, but the net force on the rocket is still zero. When the thrust is greater than the weight, there is a net external force equal to the thrust minus the weight, and the rocket begins to rise.” 
+
+You need more external force than the weight of the object to get it moving. Remember the Space X example. The Falcon 9 weighs 1.2 million pounds, and it generates more than 1.7 million pounds of thrust to take off.
+
+After you take off, you still need to apply force to make sure the object will keep moving. Plus, you have to deal with resistance. In the case of a rocket, if you want to keep it moving, the thrust must be equal to the weight plus the air resistance. 
+
+Getting started is always the hardest part because you need more energy. But once you’re in motion, you need less energy to keep moving. 
+
+The Law Of Momentum
+When you launch a rocket, you want to make sure it keeps going. This is how I look at everything in life. Too often, we only think about starting something in life. We start a business, a new job, a YouTube channel, or a new habit without giving much thought to what happens after we start.
+
+The reason is that starting is hard. It requires a lot of energy. And when we get over the start, we often burn all our fuel. Imagine if Space X designed a rocket that launched perfectly but would burn out somewhere before it reached orbit. Everything would come crashing down.
+
+And yet, that’s how most of us operate in life. But why expend so much energy to get yourself moving only to crash down later? 
+
+Instead of working against Newton’s laws, work with it, especially the third law, also known as the law of momentum.
+
+This states that an object will keep moving in the same direction unless it’s influenced by an external force. This has two consequences:
+
+It’s easier to keep a moving object in motion
+It’s harder to stop a moving object in motion
+The first one is obvious. The second implication of the law of momentum is often neglected in business, careers, productivity, and habit building. If you keep up your momentum, you’re more likely to keep going because you’re difficult to stop. 
+
+How To Apply Momentum
+The law of momentum is the main principle I’ve used to build a career as a blogger. I started in 2015, which required a lot of energy. I spent hundreds of hours building and designing, picking a direction, and finding an audience for my blog.
+
+It took a lot to get my blog off the ground. In fact, I tried a little experiment two years ago. I started a new blog, where I focused on writing about the business of blogging. I’d forgotten how much energy it took to get DariusForoux.com off the ground.
+
+This is because of the Curse of Knowledge.4 When you’ve done something or learned something, you can’t imagine what life was like before. But I realized quickly: Getting started requires a lot of work.
+
+But at the same time, keeping up my current blog was effortless. Sure, I still spend a lot of time researching new content, but I no longer have to spend energy on things I had to work on at the beginning.
+
+The second implication of the law of momentum is also important. Because my blog is in motion, it’s actually really hard to stop it. I might take a break for a week or two, but after that, I always come back to publishing new articles. Somehow, the blog has taken a life of its own. 
+
+You see the same concept with people who have been working out their whole life. They just can’t stop working out. They have momentum. 
+
+How Long Does It Take To Build Momentum?
+Here’s the lesson I learned: If you’re truly committed to starting something, get started, but make sure that you keep going. That last part is the most important thing. You must keep going until you reach a point that you’re unstoppable. 
+
+In my experience, it usually takes two years for most worthwhile things in life. This is not an answer most of us like to hear. We prefer a two week period. But we need patience. And that’s a lot easier if we respect the law of momentum. 
+
+When you start something new, give it all your attention for those first two years. If you can’t do that, I wouldn’t start until you can. Otherwise, you end up in cycle of starting and quitting. And that takes a lot out of you.
+
+There’s only one exception to the law of momentum. This principle only works in one direction. It’s easy for me to keep the momentum of my blog, but if I want to move in another direction, I can’t count on that same momentum. 
+
+Sometimes, we need to move in another direction for some reason. And that’s fine. If you’re stuck in a directionless career or business, it might be better to quit and make a change. 
+
+But if you know you’re going in the right direction, do everything to keep going.
