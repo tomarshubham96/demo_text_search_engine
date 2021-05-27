@@ -158,4 +158,42 @@ public class LuceneIndexerService {
 //        writer.commit();
 //		writer.deleteUnusedFiles();
       }
+      
+      
+      public String getFileContents(String fileName) {
+    	  
+    	  Resource[] resources;  
+    	  String text = null;
+          
+          try {
+              resources = ResourcePatternUtils.getResourcePatternResolver(resourceLoader).getResources("classpath:" + DOCS_PATH + "/*"+fileName);              
+              try (InputStream stream = resources[0].getInputStream()) {
+                  // make a new, empty document
+                  Document doc = new Document();
+                  doc.clear();
+                  Metadata metadata = new Metadata();
+        			ContentHandler handler = new BodyContentHandler();
+        			ParseContext context = new ParseContext();
+        			Parser parser = new AutoDetectParser();
+        			try {
+        				parser.parse(stream, handler, metadata, context);
+        			}
+        			catch (TikaException e) {
+        				e.printStackTrace();
+        			} catch (SAXException e) {
+        				e.printStackTrace();
+        			}
+        			finally {
+        				stream.close();
+        			}
+        			
+        		 text = handler.toString();
+                  
+                }
+              
+          } catch (IOException e) {
+              throw new UncheckedIOException(e);
+          }
+		return text;    	  
+      }
 }

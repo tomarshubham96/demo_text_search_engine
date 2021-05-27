@@ -150,43 +150,9 @@
    </style>
    </head>
    <body>
-      <div class="heading" th:switch="${#lists.isEmpty(results)}">
-         <div th:case="true">
+      	 <div class="heading">
             <h1>Welcome to Lucene Document Search</h1>
-            <h2 th:text="${count}==0 ? 'No files found, please enter another word to search' : ''"></h2>
-         </div>
-         <div th:case="false">
-            <h1>Search Results</h1>
-            <h2>
-               <strong class="text-danger" th:text="${count}"></strong>
-               file found for the search for text <strong class="text-danger" th:text="${searchText}"></strong>
-            </h2>
-         </div>
-      </div>
-      <div class="col-xs-12 col-sm-12 col-md-7" style="margin-bottom: 20px;">
-         <form action="/search" class="form-inline">
-            <div class="form-group">
-               <input type="text" class="form-control" name="query" placeholder="Search Text" />
-               <input type="submit" value="Search" class="btn btn-primary" />
-            </div>
-         </form>
-      </div>
-      <div class="col-xs-12 col-sm-12 col-md-7 excerpet" th:each="result:${results}">
-         <h4>
-            <b>File Path:</b><a th:href="@{/fileContents(fileName=${result.docPath})}" title="" th:text="${result.docPath}"></a>
-         </h4>
-         <h4 class="text-primary">
-            <strong class="text-danger">Score:</strong>
-            <span th:text="${result.score}"></span>
-         </h4>
-         <h5 class="text-primary">
-            <strong class="text-danger">Highlighted Text is your Search:</strong>
-         </h5>
-         <span th:each="text:${result.highlightedText}">
-         <span th:utext="${text}"></span>
-         </span>
-      </div>
-      </div>
-      </div>
+            <h2>Index is being created</h2>
+         </div>      
    </body>
 </html>

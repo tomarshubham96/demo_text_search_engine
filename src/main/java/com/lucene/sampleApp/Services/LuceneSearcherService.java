@@ -168,7 +168,7 @@ public class LuceneSearcherService {
 			documents = indexSearcher.search(query, numRecords);
 			
 			
-	        Formatter formatter = new SimpleHTMLFormatter();
+	        Formatter formatter = new SimpleHTMLFormatter("<span style='background:yellow;'>", "</span>");
 	         
 	       
 	        QueryScorer scorer = new QueryScorer(query);
@@ -177,7 +177,7 @@ public class LuceneSearcherService {
 	        Highlighter highlighter = new Highlighter(formatter, scorer);
 	         
 	        
-	        Fragmenter fragmenter = new SimpleSpanFragmenter(scorer, 10);
+	        Fragmenter fragmenter = new SimpleSpanFragmenter(scorer, 200);
 	         
 	        //breaks text up into same-size fragments with no concerns over spotting sentence boundaries.
 	        //Fragmenter fragmenter = new SimpleFragmenter(10);
@@ -198,7 +198,8 @@ public class LuceneSearcherService {
 	            String text = doc.get("contents");
 	 
 	            //Create token stream
-	            TokenStream stream = TokenSources.getAnyTokenStream(reader, docid, "contents", analyzer);
+	            @SuppressWarnings("deprecation")
+				TokenStream stream = TokenSources.getAnyTokenStream(reader, docid, "contents", analyzer);
 	             
 	            System.out.println("(" + documents.scoreDocs[i].score + ")");
 	            //i added
@@ -210,7 +211,7 @@ public class LuceneSearcherService {
 	            //i added
 	            
 	            //Get highlighted text fragments
-	            String[] frags = highlighter.getBestFragments(stream, text, 30);
+	            String[] frags = highlighter.getBestFragments(stream, text, 1);
 	            giveResult.setHighlightedText(frags);
 				
 	            searchResultList.add(giveResult);
